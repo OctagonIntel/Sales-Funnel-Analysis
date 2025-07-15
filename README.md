@@ -12,11 +12,10 @@ I created a **synthetic dataset** of 10,000 leads moving through a standard B2B/
 - Conversion stage (awareness → deal closed)
 - Revenue
 - Profit
-- Country
 
 This dataset was built to:
 - Practice and showcase analysis techniques
-- Create a realistic, yet flexible dataset for Power BI / Tableau
+- Create a realistic, yet flexible dataset for Tableau
 - Demonstrate readiness for data analyst/business analyst roles
 
 
@@ -26,5 +25,5 @@ This dataset was built to:
 |------------|--------------------------------------|
 | **Python (Jupyter)** | Generate realistic fake data using `pandas`, `numpy`, `faker` |
 | **Excel**   | Initial data cleaning, exploration, KPIs |
-| **SQL (SQLite / PostgreSQL)** | Querying for funnel metrics |
-| **Tableau / Power BI** | Optional future visualization layer |
+| **SQL** | Querying |
+| **Tableau** | Optional future visualization layer |
