@@ -2,7 +2,6 @@
 
 This project simulates a complete sales funnel dataset using Python and performs initial analysis using Excel. It's designed to showcase technical skills in data generation, preprocessing, and readiness for visualization and business insights.
 
----
 
 ##  Project Overview
 
@@ -20,7 +19,6 @@ This dataset was built to:
 - Create a realistic, yet flexible dataset for Power BI / Tableau
 - Demonstrate readiness for data analyst/business analyst roles
 
----
 
 ##  Tools Used
 
